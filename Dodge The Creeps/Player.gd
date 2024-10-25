@@ -52,3 +52,5 @@ func start(pos):
 	$CollisionShape2D.disabled = false
 	
 	
+	
+	
